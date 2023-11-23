@@ -1,8 +1,8 @@
 # Qiyida X99H ED4 + Xeon E5-2670V3 + RX 480
 
-![AboutThisMac](https://raw.githubusercontent.com/CryZFix/opencore_x99_e2670v3/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-23%20%D0%B2%2014.25.18.png)
+![AboutThisMac](https://raw.githubusercontent.com/CryZFix/opencore_x99_e2670v3/main/img/AboutMac.png)
 
-**Latest working macOS**: 12.7.1
+**Latest working macOS**: 14.1
 <br>
 **Current OpenCore**: 0.6.9
 
@@ -14,7 +14,7 @@
 - SSD SATA AMD R5SL480G 480Gb
 
 ## What works
-- macOS Big Sur, macOS Catalina and macOS Monterey
+- macOS Big Sur, macOS Catalina, macOS Monterey and macOS Sonoma
 - Audio
 - HDMI/DP
 - All USB ports
